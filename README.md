@@ -30,6 +30,3 @@ streamlit run app.py
 - Pandas
 - NumPy
 
-## Disclaimer
-
-This project is for educational purposes only and should not be considered financial advice.
